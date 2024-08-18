@@ -18,14 +18,22 @@ open cv
 
 
 
-## Installation
+## Installation and Run procedure
 
 Install all the libraries by changing the below command
 
 ```bash
   pip install streamlit
 ```
-just change the library name for different ones
+to run the script , save the python script in a new folder , change the path to the folder via cd in cmd
+```bash
+   cd C:\Users\kiree\OneDrive\Desktop\engineering\underwater-image-stablization-main
+```
+make sure your python script is present in the path's folder
+to run the script by streamlit via cmd
+```bash
+  streamlit run file_name.py
+```
 
 ## Authors
 
